@@ -1,0 +1,43 @@
+04/09/22 09:38
+
+drazin.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+04/12/22 14:36
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+predict_link() failed while adding connections for node = Paul
+	Correct response:
+'Paul'
+	Student response:
+'Emily'
+predict_link() failed while adding connections for node = Christopher
+	Correct response:
+'Christopher'
+	Student response:
+'Piers'
+Score += 11
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+
+Comments:
+	Great job!
+
+-------------------------------------------------------------------------------
+

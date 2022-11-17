@@ -1,0 +1,65 @@
+02/04/22 13:52
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Didn't see any pertubed points
+Score += 6
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+TimeoutError: Timeout after 60 seconds
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 36/50 = 72.0%
+
+
+Comments:
+	Looking good!
+
+-------------------------------------------------------------------------------
+
+02/08/22 11:41
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Excellent!
+
+-------------------------------------------------------------------------------
+

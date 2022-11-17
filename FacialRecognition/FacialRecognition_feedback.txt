@@ -1,0 +1,147 @@
+11/18/21 13:40
+
+Show a face from the dataset (5 points):
+Score += 5
+
+Show mean face. Show original face next to mean-shifted face (10 points):
+Score += 10
+
+Show some of eigenfaces (10 points):
+Score += 10
+
+Show projections for 4 different versions of s (10 points):
+Score += 10
+
+Show sample images and their matches (10 points):
+Score += 0
+
+Code Quality (5 points):
+noice
+Score += 4
+
+Total score: 39/50 = 78.0%
+
+-------------------------------------------------------------------------------
+
+11/20/21 19:17
+
+Show a face from the dataset (5 points):
+Score += 5
+
+Show mean face. Show original face next to mean-shifted face (10 points):
+Score += 10
+
+Show some of eigenfaces (10 points):
+Score += 10
+
+Show projections for 4 different versions of s (10 points):
+Score += 10
+
+Show sample images and their matches (10 points):
+a lot of these aren't quite matches. is there a tweak or two you could do to improve accuracy?
+Score += 7
+
+Code Quality (5 points):
+missing comments in some places, but looks gucci
+Score += 2
+
+Total score: 44/50 = 88.0%
+
+
+Comments:
+	yeet
+
+-------------------------------------------------------------------------------
+
+11/23/21 14:25
+
+Show a face from the dataset (5 points):
+Score += 5
+
+Show mean face. Show original face next to mean-shifted face (10 points):
+Score += 10
+
+Show some of eigenfaces (10 points):
+Score += 10
+
+Show projections for 4 different versions of s (10 points):
+Score += 10
+
+Show sample images and their matches (10 points):
+Score += 10
+
+Code Quality (5 points):
+last prob doesn't have any labels
+Score += 4
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+
+Comments:
+	straight chillin bruh
+
+-------------------------------------------------------------------------------
+
+11/27/21 14:57
+
+Show a face from the dataset (5 points):
+Score += 5
+
+Show mean face. Show original face next to mean-shifted face (10 points):
+Score += 10
+
+Show some of eigenfaces (10 points):
+Score += 10
+
+Show projections for 4 different versions of s (10 points):
+Score += 10
+
+Show sample images and their matches (10 points):
+Score += 10
+
+Code Quality (5 points):
+label last prob
+Score += 4
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+
+Comments:
+	whooooooo
+
+-------------------------------------------------------------------------------
+
+12/07/21 10:29
+
+Show a face from the dataset (5 points):
+Score += 5
+
+Show mean face. Show original face next to mean-shifted face (10 points):
+Score += 10
+
+Show some of eigenfaces (10 points):
+Score += 10
+
+Show projections for 4 different versions of s (10 points):
+Score += 10
+
+Show sample images and their matches (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	noice
+
+-------------------------------------------------------------------------------
+

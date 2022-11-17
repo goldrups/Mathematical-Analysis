@@ -1,0 +1,153 @@
+09/18/21 11:51
+
+Problem 1 (5 points):
+this line is a little janky - there should be more points the line is connecting between
+Score += 3
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+subplot 1 has incorrect x limits
+	Correct response: (0, 6.283185307179586)
+	Student response: (0.0, 3.141592653589793)
+subplot 2 has incorrect x limits
+	Correct response: (0, 6.283185307179586)
+	Student response: (0.0, 3.141592653589793)
+subplot 3 has incorrect x limits
+	Correct response: (0, 6.283185307179586)
+	Student response: (0.0, 3.141592653589793)
+subplot 4 has incorrect x limits
+	Correct response: (0, 6.283185307179586)
+	Student response: (0.0, 3.141592653589793)
+Score += 4
+
+Problem 5 (15 points):
+Score += 15
+
+Problem 6 (10 points):
+missing a contour plot
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 42/50 = 84.0%
+
+
+Comments:
+	titling was on point
+
+-------------------------------------------------------------------------------
+
+09/23/21 13:44
+
+Problem 1 (5 points):
+how many points do you have in this line
+Score += 3
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+subplot 1 has incorrect x limits
+	Correct response: (0, 6.283185307179586)
+	Student response: (0.0, 3.141592653589793)
+subplot 2 has incorrect x limits
+	Correct response: (0, 6.283185307179586)
+	Student response: (0.0, 3.141592653589793)
+subplot 3 has incorrect x limits
+	Correct response: (0, 6.283185307179586)
+	Student response: (0.0, 3.141592653589793)
+subplot 4 has incorrect x limits
+	Correct response: (0, 6.283185307179586)
+	Student response: (0.0, 3.141592653589793)
+excellent titles. domain should be [0,2pi]
+Score += 3
+
+Problem 5 (15 points):
+Score += 15
+
+Problem 6 (10 points):
+can't see your contour plot?
+Score += 6
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 42/50 = 84.0%
+
+
+Comments:
+	good job!
+
+-------------------------------------------------------------------------------
+
+09/24/21 18:54
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (15 points):
+Score += 15
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	missed the inappropriate titles, but I guess the new ones are fine
+
+-------------------------------------------------------------------------------
+
+10/03/21 11:22
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (15 points):
+Score += 15
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

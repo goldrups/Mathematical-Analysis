@@ -1,0 +1,69 @@
+12/03/21 12:07
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+you can't see b_0,0 - set ylims as [0,1.1] so it shows
+Score += 4
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+missing comments and a few titles, but it looks *chefs kiss*
+Score += 1
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+
+Comments:
+	noice
+
+-------------------------------------------------------------------------------
+
+12/08/21 00:29
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+comments nyagh
+Score += 4
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+
+Comments:
+	good luck starting your country. I believe in you
+
+-------------------------------------------------------------------------------
+

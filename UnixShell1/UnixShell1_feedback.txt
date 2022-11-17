@@ -1,0 +1,96 @@
+09/04/21 10:36
+
+File 'unixshell1.sh' not found!
+09/06/21 19:27
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+File 'organize_photos.sh' is not executable
+Score += 7
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+09/07/21 10:49
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+File 'organize_photos.sh' is not executable
+Score += 7
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+
+Comments:
+	I have no idea why its still taking off points. Let me talk to the other TAs to figure it out. Since you did come to me for help on this one earlier we can be more lenient
+10/03/21 10:51
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+File 'organize_photos.sh' is not executable
+Score += 7
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+
+Comments:
+	I'm sorry we couldn't figure out what the problem was here nyeagh
+
+-------------------------------------------------------------------------------
+

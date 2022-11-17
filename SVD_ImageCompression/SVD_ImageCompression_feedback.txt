@@ -1,0 +1,90 @@
+11/11/21 13:06
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+lowest_rank_approx() failed with error = 7.183822625402585 (showing ||A - Ahat||_2)
+	Correct response: 6.619715380051729
+	Student response: 56.30583350477789
+lowest_rank_approx() failed with error = 7.054367986884945 (showing ||A - Ahat||_2)
+	Correct response: 6.34650421609538
+	Student response: 118.78832118750871
+Score += 1
+
+Problem 5 (15 points):
+colors look bizarre in approx. correct number of entries
+colors look bizarre
+Score += 9
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+11/14/21 18:20
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+lowest_rank_approx() failed with error = 9.623966113669466 (showing ||A - Ahat||_2)
+	Correct response: 7.189791813129658
+	Student response: 10.558033401167933
+lowest_rank_approx() failed with error = 7.919780397491801 (showing ||A - Ahat||_2)
+	Correct response: 6.123925614878404
+	Student response: 8.019780397491804
+Score += 1
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+11/18/21 13:46
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

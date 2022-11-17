@@ -1,0 +1,55 @@
+10/16/21 13:51
+
+Problem 1 (21 points):
+at first glance your code looks good but unless you run it and show your plot I can't actually grade it
+Score += 15
+
+Problem 2 (8 points):
+do a few subplots with different norms and don't forget your explanation
+Score += 4
+
+Problem 3 (8 points):
+Score += 0
+
+Problem 4 (8 points):
+Score += 0
+
+Code Quality (5 points):
+don't forget to comment every function and title your plots!
+Score += 4
+
+Total score: 23/50 = 46.0%
+
+
+Comments:
+	well done. this lab is a beast
+
+-------------------------------------------------------------------------------
+
+10/26/21 09:43
+
+Problem 1 (25 points):
+Score += 25
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (extra credit) (0 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	good jorb
+
+-------------------------------------------------------------------------------
+

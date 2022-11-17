@@ -1,0 +1,132 @@
+03/25/22 13:10
+
+Problem 1 (5 points):
+Student database missing table 'USEarthquakes'
+Score += 4
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: '_sol_temp.db'
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 39/50 = 78.0%
+
+
+Comments:
+	Awesome!
+
+-------------------------------------------------------------------------------
+
+03/28/22 12:28
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Incorrect average magnitude
+Score += 8
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+
+Comments:
+	Awesome!
+
+-------------------------------------------------------------------------------
+
+03/29/22 16:58
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Excellent!
+
+-------------------------------------------------------------------------------
+
+03/31/22 21:42
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Excellent!
+
+-------------------------------------------------------------------------------
+

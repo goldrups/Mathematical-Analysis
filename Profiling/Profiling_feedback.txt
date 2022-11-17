@@ -1,0 +1,176 @@
+01/06/22 21:19
+
+Problem 1 (5 points):
+max_path_fast('triangle.txt'):
+	Solution time: 0.004021406174 seconds
+	Student time:  0.001001358032 seconds (Excellent!)
+max_path_fast('triangle_large.txt'):
+	Solution time: 0.036810159683 seconds
+	Student time:  0.009868144989 seconds (Excellent!)
+Score += 5
+
+Problem 2 (10 points):
+primes_fast(100):
+	Solution time: 0.000998020172 seconds
+	Student time:  0.001037836075 seconds
+primes_fast(10001):
+	Solution time: 0.218437433243 seconds
+	Student time:  0.401386022568 seconds
+Score += 10
+
+Problem 3 (5 points):
+nearest_column_fast(), 10x15 A:
+	Solution time: 0.000000000000 seconds
+	Student time:  0.000000000000 seconds
+nearest_column_fast(), 1000x1005 A:
+	Solution time: 0.001032590866 seconds
+	Student time:  0.005949735641 seconds
+Score += 5
+
+Problem 4 (5 points):
+name_scores_fast():
+	Solution time: 0.025139331818 seconds
+	Student time:  0.001995325089 seconds (Excellent!)
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+TimeoutError: Timeout after 8 seconds
+
+Problem 7 (5 points):
+Add a title please!
+Score += 4
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 39/50 = 78.0%
+
+
+Comments:
+	Almost there, keep it up!
+
+-------------------------------------------------------------------------------
+
+01/11/22 21:21
+
+Problem 1 (5 points):
+max_path_fast('triangle.txt'):
+	Solution time: 0.000113010406 seconds
+	Student time:  0.000090837479 seconds (Excellent!)
+max_path_fast('triangle_large.txt'):
+	Solution time: 0.002625703812 seconds
+	Student time:  0.002347946167 seconds (Excellent!)
+Score += 5
+
+Problem 2 (10 points):
+primes_fast(100):
+	Solution time: 0.000140428543 seconds
+	Student time:  0.000319719315 seconds
+primes_fast(10001):
+	Solution time: 0.112967967987 seconds
+	Student time:  0.114794969559 seconds
+Score += 10
+
+Problem 3 (5 points):
+nearest_column_fast(), 10x15 A:
+	Solution time: 0.000071287155 seconds
+	Student time:  0.000028848648 seconds (Excellent!)
+nearest_column_fast(), 1000x1005 A:
+	Solution time: 0.004711866379 seconds
+	Student time:  0.003156900406 seconds (Excellent!)
+Score += 5
+
+Problem 4 (5 points):
+name_scores_fast():
+	Solution time: 0.004829883575 seconds
+	Student time:  0.004636049271 seconds (Excellent!)
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+list(prime_sieve(100000)):
+	Solution time: 2.129841327667 seconds
+	Student time:  2.622951507568 seconds
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Awesome!
+
+-------------------------------------------------------------------------------
+
+01/11/22 22:53
+
+Problem 1 (5 points):
+max_path_fast('triangle.txt'):
+	Solution time: 0.000308036804 seconds
+	Student time:  0.000254154205 seconds (Excellent!)
+max_path_fast('triangle_large.txt'):
+	Solution time: 0.005972862244 seconds
+	Student time:  0.004157781601 seconds (Excellent!)
+Score += 5
+
+Problem 2 (10 points):
+primes_fast(100):
+	Solution time: 0.000229835510 seconds
+	Student time:  0.000595569611 seconds
+primes_fast(10001):
+	Solution time: 0.059559345245 seconds
+	Student time:  0.088779449463 seconds
+Score += 10
+
+Problem 3 (5 points):
+nearest_column_fast(), 10x15 A:
+	Solution time: 0.000069856644 seconds
+	Student time:  0.000026464462 seconds (Excellent!)
+nearest_column_fast(), 1000x1005 A:
+	Solution time: 0.003940105438 seconds
+	Student time:  0.003171205521 seconds (Excellent!)
+Score += 5
+
+Problem 4 (5 points):
+name_scores_fast():
+	Solution time: 0.004997491837 seconds
+	Student time:  0.004785299301 seconds (Excellent!)
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+list(prime_sieve(100000)):
+	Solution time: 2.230423212051 seconds
+	Student time:  0.468453884125 seconds (Excellent!)
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Awesome!
+
+-------------------------------------------------------------------------------
+
